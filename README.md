@@ -25,3 +25,4 @@ Your password is hashed locally using SHA-1. Only the first 5 characters of the 
 ## Preview
 
 ![Password Checker Screenshot](assets/screenshot.PNG)
+![Password Checker Screenshot](assets/screenshot1.PNG)
