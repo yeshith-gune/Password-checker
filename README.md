@@ -21,3 +21,7 @@ python password_checker.py
 
 ## How It Works
 Your password is hashed locally using SHA-1. Only the first 5 characters of the hash are sent to the API — your actual password never leaves your computer.
+
+## Preview
+
+![Password Checker Screenshot](assets/screenshot.png)
