@@ -69,7 +69,7 @@ Step 4:  Your code checks locally if your suffix is in that list
          Match found  → password was leaked 🚨
          No match     → password is safe   ✅
 ```
- 
+> Your actual password **never leaves your computer.** Only 5 characters of a hash are sent — shared by thousands of other hashes.
 
 
 ## Preview
