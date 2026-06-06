@@ -43,12 +43,12 @@ Each rule passed adds **1 point** to the score (max = 5):
  
 | Score | Label |
 |---|---|
-| 0 | Very Weak 🔴 |
-| 1 | Weak 🔴 |
-| 2 | Fair 🟠 |
-| 3 | Moderate 🟡 |
-| 4 | Strong 🟢 |
-| 5 | Very Strong 💪 |
+| 0 | Very Weak  |
+| 1 | Weak  |
+| 2 | Fair  |
+| 3 | Moderate  |
+| 4 | Strong  |
+| 5 | Very Strong  |
 ---
  
 ### Breach Checker — k-Anonymity
