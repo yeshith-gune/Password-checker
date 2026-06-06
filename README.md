@@ -86,6 +86,35 @@ Step 4:  Your code checks locally if your suffix is in that list
 | [HaveIBeenPwned API](https://haveibeenpwned.com/API/v3) | Breach database with 10B+ passwords |
  
 ---
+## 🚀 Getting Started
+ 
+### Prerequisites
+ 
+Make sure you have Python installed:
+```bash
+python --version
+```
+You should see `Python 3.x.x`
+ 
+### Installation
+ 
+**1. Clone the repository**
+```bash
+git clone https://github.com/yeshith-gune/password-checker.git
+cd password-checker
+```
+ 
+**2. Install the required library**
+```bash
+pip install requests
+```
+ 
+**3. Run the program**
+```bash
+python password_checker.py
+```
+---
+
 ## Preview
 
 ![Password Checker Screenshot](assets/screenshot.PNG)
