@@ -49,6 +49,7 @@ Each rule passed adds **1 point** to the score (max = 5):
 | 3 | Moderate 🟡 |
 | 4 | Strong 🟢 |
 | 5 | Very Strong 💪 |
+---
  
 ### Breach Checker — k-Anonymity
  
