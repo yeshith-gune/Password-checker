@@ -50,7 +50,25 @@ Each rule passed adds **1 point** to the score (max = 5):
 | 4 | Strong 🟢 |
 | 5 | Very Strong 💪 |
  
-
+### Breach Checker — k-Anonymity
+ 
+This is the privacy trick that keeps your password safe during the API check:
+ 
+```
+Step 1:  Your password is hashed locally using SHA-1
+         "hello123" → "F9EF2CDDCA42A2E78A4F8F..."
+ 
+Step 2:  The hash is split into two parts
+         Prefix (first 5 chars):  "F9EF2"   ← sent to API
+         Suffix (remaining chars): "CDDCA..." ← stays on your device
+ 
+Step 3:  The API returns ALL hashes starting with "F9EF2"
+         (thousands of hashes mixed together)
+ 
+Step 4:  Your code checks locally if your suffix is in that list
+         Match found  → password was leaked 🚨
+         No match     → password is safe   ✅
+```
  
 
 
