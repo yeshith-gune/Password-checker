@@ -71,7 +71,20 @@ Step 4:  Your code checks locally if your suffix is in that list
 ```
 > Your actual password **never leaves your computer.** Only 5 characters of a hash are sent — shared by thousands of other hashes.
 
-
+---
+ 
+## 🛠️ Technologies Used
+ 
+| Tool | Purpose |
+|---|---|
+| `Python 3` | Core programming language |
+| `re` | Regular expressions for pattern matching |
+| `hashlib` | SHA-1 hashing algorithm |
+| `getpass` | Hidden password input |
+| `requests` | HTTP requests to HaveIBeenPwned API |
+| [HaveIBeenPwned API](https://haveibeenpwned.com/API/v3) | Breach database with 10B+ passwords |
+ 
+---
 ## Preview
 
 ![Password Checker Screenshot](assets/screenshot.PNG)
