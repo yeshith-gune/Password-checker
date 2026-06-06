@@ -25,6 +25,30 @@ A Python tool that checks your password strength and whether it has appeared in 
 - ✅ **Helpful suggestions** — tells you exactly what to improve
 - ✅ **Hidden input** — password is invisible while typing
 ---
+
+## 🔍 How It Works
+ 
+### Strength Checker
+The tool checks your password against **5 rules:**
+ 
+| Rule | Requirement |
+|---|---|
+| ✅ Length | At least 8 characters |
+| ✅ Uppercase | At least one capital letter (A–Z) |
+| ✅ Lowercase | At least one small letter (a–z) |
+| ✅ Number | At least one digit (0–9) |
+| ✅ Symbol | At least one special character (!@#$...) |
+ 
+Each rule passed adds **1 point** to the score (max = 5):
+ 
+| Score | Label |
+|---|---|
+| 0 | Very Weak 🔴 |
+| 1 | Weak 🔴 |
+| 2 | Fair 🟠 |
+| 3 | Moderate 🟡 |
+| 4 | Strong 🟢 |
+| 5 | Very Strong 💪 |
  
 
  
