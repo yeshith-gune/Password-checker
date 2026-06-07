@@ -73,8 +73,7 @@ Step 4:  Your code checks locally if your suffix is in that list
 > Your actual password **never leaves your computer.** Only 5 characters of a hash are sent — shared by thousands of other hashes.
 
 ---
- 
-## 🛠️ Technologies Used
+ ## 🛠️ Technologies Used
  
 | Tool | Purpose |
 |---|---|
