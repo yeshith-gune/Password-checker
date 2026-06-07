@@ -161,6 +161,20 @@ password-checker/
 ```
  
 ---
+## 🧠 Concepts Learned
+ 
+Building this project taught me:
+ 
+- **Python functions** — writing reusable blocks of code with `def`
+- **Regular Expressions** — searching for patterns in text using `re`
+- **SHA-1 Hashing** — converting text into a one-way scrambled code
+- **k-Anonymity** — a real-world privacy technique used in security tools
+- **HTTP Requests** — communicating with external APIs using `requests`
+- **Try/Except** — handling errors gracefully without crashing
+- **f-strings** — embedding variables directly inside text
+- **Lists & Dictionaries** — storing and looking up data in Python
+- **Git & GitHub** — version control and pushing projects online
+---
 ---
 
 ## Preview
