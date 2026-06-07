@@ -181,6 +181,7 @@ Building this project taught me:
 
 ![Password Checker Screenshot](assets/screenshot.PNG)
 ![Password Checker Screenshot](assets/screenshot1.PNG)
+---
 
 ## 🔒 Security Note
  
