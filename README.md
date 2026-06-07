@@ -175,12 +175,13 @@ Building this project taught me:
 - **Lists & Dictionaries** — storing and looking up data in Python
 - **Git & GitHub** — version control and pushing projects online
 ---
----
+
 
 ## Preview
 
 ![Password Checker Screenshot](assets/screenshot.PNG)
 ![Password Checker Screenshot](assets/screenshot1.PNG)
+
 ---
 
 ## 🔒 Security Note
