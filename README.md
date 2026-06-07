@@ -115,6 +115,30 @@ python password_checker.py
 ```
 ---
 
+## 💻 Usage
+ 
+When you run the program you will see:
+ 
+```
+=============================================
+       🔐 Password Strength Checker
+=============================================
+Enter your password (hidden):
+ 
+🔍 Analyzing your password...
+ 
+Strength: Strong 🟢  (4/5)
+ 
+Suggestions to improve:
+  ❌ Add at least one special character (!@#$%...).
+ 
+🌐 Checking HaveIBeenPwned database...
+✅ This password has NOT been found in any known data breach.
+ 
+=============================================
+```
+---
+
 ## Preview
 
 ![Password Checker Screenshot](assets/screenshot.PNG)
