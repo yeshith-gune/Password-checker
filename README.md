@@ -177,7 +177,7 @@ Building this project taught me:
 ---
 
 
-## Preview
+## 📸 Preview
 
 ![Password Checker Screenshot](assets/screenshot.PNG)
 ![Password Checker Screenshot](assets/screenshot1.PNG)
