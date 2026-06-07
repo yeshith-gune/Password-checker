@@ -147,6 +147,20 @@ Suggestions to improve:
 | `H3ll0@W0rld#2024` | Very Strong 💪 | ✅ Not found |
  
 ---
+## 📁 Project Structure
+ 
+```
+password-checker/
+│
+├── password_checker.py    ← main Python script
+├── README.md              ← this file
+├── .gitignore             ← files ignored by Git
+└── assets/
+    ├── screenshot.PNG     ← terminal screenshot 1
+    └── screenshot1.PNG    ← terminal screenshot 2
+```
+ 
+---
 ---
 
 ## Preview
