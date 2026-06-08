@@ -120,19 +120,19 @@ When you run the program you will see:
  
 ```
 =============================================
-       🔐 Password Strength Checker
+       ** Password Strength Checker
 =============================================
 Enter your password (hidden):
  
-🔍 Analyzing your password...
+** Analyzing your password...
  
-Strength: Strong 🟢  (4/5)
+** Strength: Strong (4/5)
  
 Suggestions to improve:
-  ❌ Add at least one special character (!@#$%...).
+  ** Add at least one special character (!@#$%...).
  
-🌐 Checking HaveIBeenPwned database...
-✅ This password has NOT been found in any known data breach.
+** Checking HaveIBeenPwned database...
+** This password has NOT been found in any known data breach.
  
 =============================================
 ```
