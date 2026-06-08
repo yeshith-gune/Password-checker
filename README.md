@@ -140,10 +140,10 @@ Suggestions to improve:
  
 | Password | Score | Breach Safe? |
 |---|---|---|
-| `password` | Very Weak 🔴 | 🚨 Found 9M+ times |
-| `Hello123` | Moderate 🟡 | ✅ Not found |
-| `Hello@123!` | Strong 🟢 | ✅ Not found |
-| `H3ll0@W0rld#2024` | Very Strong 💪 | ✅ Not found |
+| `password` | Very Weak  | 🚨 Found 9M+ times |
+| `Hello123` | Moderate  | ✅ Not found |
+| `Hello@123!` | Strong  | ✅ Not found |
+| `H3ll0@W0rld#2024` | Very Strong  | ✅ Not found |
  
 ---
 ## 📁 Project Structure
